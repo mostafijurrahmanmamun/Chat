@@ -1,0 +1,5 @@
+{
+  "name": "React Local Chat",
+  "description": "A fully functional chat application with user registration and login, persisting all users and messages in the browser's local storage for a seamless experience.",
+  "requestFramePermissions": []
+}
